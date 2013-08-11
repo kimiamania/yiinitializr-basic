@@ -30,8 +30,8 @@
     ],
     "require": {
         "yiisoft/yii": "dev-master",
-        "2amigos/yiistrap": "dev-master",
-        "2amigos/yiiwheels": "dev-master"
+        "2amigos/yiistrap": "1.0.3",
+        "2amigos/yiiwheels": "1.0.1"
 
     },
     "autoload": {
