@@ -29,7 +29,7 @@
         }
     ],
     "require": {
-        "yiisoft/yii": "dev-master",
+        "yiisoft/yii": "1.1.13",
         "2amigos/yiistrap": "1.0.3",
         "2amigos/yiiwheels": "1.0.1"
 
